@@ -2,6 +2,10 @@
 ```
 https://raw.githubusercontent.com/wehoi/jay/main/access
 ```
+# OS RECOMMENDED 
+```
+UBUNTU 20 LTS DAN DEBIAN 10 BUSTER
+```
 # Link install
 ```
 apt update && apt upgrade -y
