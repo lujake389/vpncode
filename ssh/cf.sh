@@ -49,7 +49,7 @@ ns_domain_cloudflare1() {
 apt install jq curl -y
 clear
 
-read -rp "Sub Domain (Contoh: candra): " sub
+read -rp "Sub Domain (Contoh: java): " sub
 DOMAIN=vpntunnel.biz.id
 echo $sub > /root/cfku
 SUB_DOMAIN=${sub}.jakelu.online
