@@ -12,3 +12,5 @@ apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.con
 ```
 wget -q https://raw.githubusercontent.com/lujake389/vpncode/
 ```
+#SOURCE AND RECODE BY CANDRA IRAWAN
+TELEGRAM t.me//Candravpnz
