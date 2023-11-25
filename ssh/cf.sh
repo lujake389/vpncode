@@ -52,9 +52,9 @@ clear
 read -rp "Sub Domain (Contoh: candra): " sub
 DOMAIN=vpntunnel.biz.id
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.vpntunnel.biz.id
-CF_ID=irawancandra6699@gmail.com
-CF_KEY=b07ea594ebc844a5d9db4a88fbdb09d9a7170
+SUB_DOMAIN=${sub}.jakelu.online
+CF_ID=sydjwd007@gmail.com
+CF_KEY=8ce6b7157057a8d8afcaa797d24a83793389d
 echo ".vpntunnel.biz.id" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
