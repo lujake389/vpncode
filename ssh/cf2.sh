@@ -52,7 +52,7 @@ clear
 read -rp "Sub Domain (Contoh: Myrid): " sub
 DOMAIN=xpro.biz.id
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.xpro.biz.id
+SUB_DOMAIN=${sub}.javakeisha.my.id
 CF_ID=ziexyuan@gmail.com
 CF_KEY=2fbf0739b65e1e4b6de396b11a9693fc6aa56
 echo ".xpro.biz.id" > /root/domain
