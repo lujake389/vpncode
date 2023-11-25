@@ -635,6 +635,8 @@ echo -e "${tyblue}┌───────────────────�
 echo -e "${tyblue}│  [ 1 ]  \033[1;37mGunakan Domain Sendiri/Domainmu       ${NC}"
 echo -e "${tyblue}│  "                                        
 echo -e "${tyblue}│  [ 2 ]  \033[1;37mGunakan Domain Dari SC (jakelu.online)     ${NC}"
+echo -e "${tyblue}│     " 
+echo -e "${tyblue}│  [ 3 ]  \033[1;37mGunakan Domain Dari SC (javakeisha.my.id)     ${NC}"
 echo -e "${tyblue}│     "                                     
 echo -e "${tyblue}└──────────────────────────────────────────┘${NC}"
 read -p "   Please select numbers 1-2 or Any Button(Random) : " host
