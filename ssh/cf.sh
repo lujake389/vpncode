@@ -55,7 +55,7 @@ echo $sub > /root/cfku
 SUB_DOMAIN=${sub}.jakelu.online
 CF_ID=sydjwd007@gmail.com
 CF_KEY=8ce6b7157057a8d8afcaa797d24a83793389d
-echo ".vpntunnel.biz.id" > /root/domain
+echo ".jakelu.online" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
 set -euo pipefail
